@@ -1,6 +1,8 @@
 # Gotour
-[GoTour-Kor](https://go-tour-kr.appspot.com/#1)
-[GoTour-Eng](https://tour.golang.org/welcome/1)
+
+[GoTour-Kor](https://go-tour-kr.appspot.com/#1)  
+[GoTour-Eng](https://tour.golang.org/welcome/1)  
+
 ---
 
 ## TakeaimK's Github Blog
