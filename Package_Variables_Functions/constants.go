@@ -11,4 +11,11 @@ func main() {
 
     const Truth = true
     fmt.Println("Go rules?", Truth)
+
+    test := "World!"
+    fmt.Println("Hello", test)
+    test = "세상!"
+    fmt.Println("Hello", test)
+    //World = "Hi"
+
 }
