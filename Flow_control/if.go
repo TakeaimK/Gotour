@@ -19,7 +19,9 @@ func main() {
 	fmt.Scan(&temp)
 	if temp < 0{
 		fmt.Println(math.Sqrt(math.Abs(temp)),"i")
-	}else{
+	}else if{
 		fmt.Println(math.Sqrt(math.Abs(temp)))
+	} else{    //개행 후 else 입력 시 에러 발생
+
 	}
 }

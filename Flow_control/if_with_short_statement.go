@@ -7,6 +7,7 @@ import (
 
 func pow(x, n, lim float64) float64 {
     if v := math.Pow(x, n); v < lim {
+		//v += 1 //<=가능함!
         return v
     }
     return lim

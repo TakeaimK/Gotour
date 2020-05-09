@@ -8,7 +8,7 @@ func main() {
 		i++
 		if i == 10{
 			break
-		} 
+		}
 	}
 	fmt.Println(i)
 }
