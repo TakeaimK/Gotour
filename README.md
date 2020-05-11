@@ -6,4 +6,5 @@
 ---
 
 ## TakeaimK's Github Blog
-[Packages, variables, and functions](http://takeaimk.tk/language-go/2020/05/06/(Go)2_package_variables_functions.html)
+[Packages, variables, and functions](http://takeaimk.tk/language-go/2020/05/06/(Go)2_package_variables_functions.html)  
+[Flow Control](http://takeaimk.tk/language-go/2020/05/07/(Go)3_flow_contorl.html)  
