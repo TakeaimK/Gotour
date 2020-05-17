@@ -12,4 +12,8 @@ func main() {
 
     // missing high index implies len(s)
     fmt.Println("p[4:] ==", p[4:])
+
+    x := p[4:]
+    x[1] = 15
+    fmt.Println(p)  //[2 3 5 7 11 15]
 }
